@@ -1,0 +1,13 @@
+HowTo - Install Atom.io text editor on Linux
+
+From http://www.webupd8team.org -- see:
+
+  http://www.webupd8.org/2014/05/install-atom-text-editor-in-ubuntu-via-ppa.html
+  http://www.webupd8.org/2014/05/atom-text-editor-ubuntu-ppa-update.html
+  http://www.webupd8.org/2014/06/atom-text-editor-available-for-linux.html
+
+Instructions (bash command-line) for Ubuntu/Mint, 32- and 64-bit; if problems, especially with Node.js, see the third url/link above:
+
+  $ sudo add-apt-repository ppa:webupd8team/atom
+  $ sudo apt-get update
+  $ sudo apt-get install atom

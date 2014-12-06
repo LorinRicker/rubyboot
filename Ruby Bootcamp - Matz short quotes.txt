@@ -1,0 +1,9 @@
+"For me the purpose of life is partly to have joy. Programmers often feel joy when they can concentrate on the creative side of programming. So Ruby is designed to make programmers happy." -- Yukihiro 'Matz' Matsumoto
+
+"I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language." -- Matz
+
+"Why should you switch to Ruby? Learning a new language is harmless. It gives you new ideas and insights. You don't have to switch, just learn and try it." -- Matz
+
+"In our daily lives as programmers, we process text strings a lot. I tried to work hard on text processing, namely the string class and regular expressions.  So you can do daily systems administration and text processing programming. That's the major domain of at least my life, so I worked hard on making that good." -- Matz
+
+"We just need the Turing machine to solve all of our problems, in theory. Humans require more sophisticated tools to program. It's a matter of human need. As long as some people feel happy using Ruby, that's enough of a reason for another language for me." -- Matz

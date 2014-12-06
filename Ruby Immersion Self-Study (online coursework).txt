@@ -1,0 +1,61 @@
+Ruby Immersion Self-Study (online coursework)
+
+----------------
+Ruby --
+
+Codecademy
+Ruby track:        www.CodeCademy.com/tracks/ruby
+
+CodeSchool
+Ruby track:        www.CodeSchool.com/courses/try-ruby
+                   www.CodeSchool.com/courses/ruby-bits
+                   www.CodeSchool.com/courses/ruby-bits-part-2
+
+JumpStart Labs
+Ruby track:        www.JumpStartLabs/projects/ruby_in_100_minutes.html
+
+RubyMonk
+Ruby primer:       RubyMonk.com/learning/books/1-ruby-primer
+        and:       RubyMonk.com/learning/books/4-ruby-primer-ascent
+
+
+----------------
+Sublime Text (text editing) --
+
+CodeSchool
+Sublime Text:      www.CodeSchool.com/screencasts/sublime-text-3
+
+Tuts+
+Sublime Workflow:  code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+
+
+----------------
+Git/GitHub --
+
+GitHub
+5-minute Basics:   guides.GitHub.com/overviews/flow/
+Setup:             help.GitHub.com/articles/set-up-git
+
+Git
+Tutorial:          www.Atlassian.com/git
+
+Tom Preston
+Git Parable:       tom.preston-werner.com/2009/05/19/the-git-parable.html
+
+CodeSchool
+Git track:         www.CodeSchool.com/courses/try-git
+                   www.CodeSchool.com/courses/git-real
+                   www.CodeSchool.com/courses/git-real-2
+                   www.CodeSchool.com/courses/mastering-github
+
+
+----------------
+JavaScript --
+
+CodeCademy
+JavaScript track:  www.CodeCademy.com/tracks/javascript
+             and:  www.CodeCademy.com/tracks/jquery
+
+CodeSchool
+JavaScript/JQuery: www.CodeSchool.com/courses/javascript-road-trip-part-1
+                   www.CodeSchool.com/courses/try-jquery
