@@ -1,0 +1,29 @@
+The *Real* Prerequisites for Ruby Immersion
+-- 10 Key Skills and Personal Attributes --
+
+ 1. Be able to touch-type (command-line, text editor) fluently, at-speed,
+    without looking at your hands.
+
+ 2. Use, or learn to use, your chosen text editor very well; specifically,
+    learn to use it's Ruby syntax support features.
+
+ 3. Comfortable and competent at the bash command line.
+
+ 4. Basic understanding, some familiarity with the process of software
+    development: what programming is, writing code, running programs
+    that you've developed yourself.
+
+ 5. Disciplined, focused, curious, explorer -- comfortable with uncertainty,
+    not knowing at first exactly where you're going...
+
+ 6. Read *lots* of existing Ruby code.
+
+ 7. Execute code "in your head."
+
+ 8. Use a REPL (irb, pry) as a development tool right beside your open
+    text editor window.
+
+ 9. Willing to help others, listen to others, learn from others.
+
+10. Cooperate, conspire, collaborate, collegial --
+    push "compete" into the background.
